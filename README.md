@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dwyrwas
-- 👀 I’m interested in Public Health and Epidemiology
+- 👀 I’m interested in Public Health, Epidemiology, and data science
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on epidemiology projects and data visulaization projects
 
