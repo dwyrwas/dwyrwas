@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dwyrwas
+- 👋 Hi, I’m @dwyrwas, a Front-End Developer focusing in React
 
 
 
